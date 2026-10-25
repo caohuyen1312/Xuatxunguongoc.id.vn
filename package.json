@@ -1,0 +1,7 @@
+{
+  "name": "xuatxu-render-checks",
+  "private": true,
+  "type": "module",
+  "scripts": { "test:browser": "node tests/browser-audit.mjs" },
+  "devDependencies": { "@playwright/test": "^1.51.0", "jsqr": "^1.4.0" }
+}

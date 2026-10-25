@@ -1,0 +1,58 @@
+[
+  {
+    "id": "preview-na",
+    "name": "Na",
+    "image_url": "/static/images/gallery-na.jpg",
+    "status": "COVER_ONLY",
+    "original_filename": "784389307_1372026088392608_3577561183644189667_n.jpg"
+  },
+  {
+    "id": "preview-nho",
+    "name": "Nho xanh",
+    "image_url": "/static/images/gallery-nho.jpg",
+    "status": "COVER_ONLY",
+    "original_filename": "787342373_1375280394733844_4143362733193479473_n.jpg"
+  },
+  {
+    "id": "preview-le",
+    "name": "Lê vàng",
+    "image_url": "/static/images/gallery-le.jpg",
+    "status": "COVER_ONLY",
+    "original_filename": "797179064_1381227504139133_1634441338498217392_n.jpg"
+  },
+  {
+    "id": "preview-dua",
+    "name": "Dưa vàng",
+    "image_url": "/static/images/gallery-dua.jpg",
+    "status": "COVER_ONLY",
+    "original_filename": "800935380_1384523087142908_1925679469874536052_n.jpg"
+  },
+  {
+    "id": "preview-mang-cut",
+    "name": "Măng cụt",
+    "image_url": "/static/images/gallery-mang-cut.jpg",
+    "status": "COVER_ONLY",
+    "original_filename": "801504013_1384522937142923_2420039994395376494_n.jpg"
+  },
+  {
+    "id": "preview-buoi",
+    "name": "Bưởi",
+    "image_url": "/static/images/gallery-buoi.jpg",
+    "status": "COVER_ONLY",
+    "original_filename": "bưởi.jpg"
+  },
+  {
+    "id": "preview-cam",
+    "name": "Cam vàng",
+    "image_url": "/static/images/gallery-cam.jpg",
+    "status": "COVER_ONLY",
+    "original_filename": "cam vàng.jpg"
+  },
+  {
+    "id": "preview-xoai",
+    "name": "Xoài",
+    "image_url": "/static/images/gallery-xoai.jpg",
+    "status": "COVER_ONLY",
+    "original_filename": "xoai.jpg"
+  }
+]
